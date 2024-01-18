@@ -1,2 +1,10 @@
 # Java-Rest-Back-End
-Projeto Java API Rest com Spring Boot e MySQL com um sistema de segurança implantado com Spring Security
+
+Aplicação em Java que implementa segurança para os usuários na hora de autorizar cadastros no login e autenticando a veracidade deste cadastro, mantendo os dados criptografados no banco de dados para evitar do invasor de descobrir a senha real.
+
+## Used Stacks:
+- Java 17
+- MySQL
+- Springboot
+- Spring Security
+- Postman
